@@ -8,23 +8,24 @@
 
 分类参考https://awesome-python.com
 
-| 类别               | 描述         |
-| ---------------- | ---------- |
-| 日志(logging)      |            |
-| 网络(network       |            |
-| 并发(concurrency)  | 进程、线程等     |
-| 任务调度(scheduler   |            |
-| 文件(files)        | 目录遍历、文件压缩等 |
-| 时间(datetime)     | 时间、日期等     |
-| 调试(debugging)    |            |
-| 运维(devops        |            |
-| 文档(documentation |            |
-| 邮件(email)        |            |
-| HTML             |            |
-| 队列(queue)        |            |
-| 打包(package)      |            |
-| 界面(gui)          |            |
-| 优化(optimization) | python性能优化 |
+| 类别               | 描述            |
+| ---------------- | ------------- |
+| 日志(logging)      |               |
+| 网络(network       |               |
+| 并发(concurrency)  | 进程、线程等        |
+| 任务调度(scheduler   |               |
+| 文件(files)        | 目录遍历、文件压缩等    |
+| 时间(datetime)     | 时间、日期等        |
+| 调试(debugging)    |               |
+| 运维(devops        |               |
+| 文档(documentation |               |
+| 邮件(email)        |               |
+| HTML             |               |
+| 队列(queue)        |               |
+| 打包(package)      |               |
+| 界面(gui)          |               |
+| 优化(optimization) | python性能优化    |
+| 环境( environment) | python版本和虚拟环境 |
 
 暂时先这样, 这需要不断的完善可整理~
 
