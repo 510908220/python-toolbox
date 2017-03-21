@@ -29,6 +29,17 @@
 
 暂时先这样, 这需要不断的完善可整理~
 
+## 日志
+
+## 网络
+| Notebook                                 | Description             |
+| ---------------------------------------- | ----------------------- |
+| [download](http://nbviewer.ipython.org/github.com/510908220/python-toolbox/tree/master/books/network/download.ipynb) | 使用`requests`下载文件、显示下载进度 |
+
+
+<br/>
+
+
 
 
 ## 使用
