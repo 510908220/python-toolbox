@@ -2,44 +2,49 @@
 收集python常用的脚本. 这样可以在需要的时候直接就用,避免到处去去找, 浪费时间~. 计划按照下面`分类`去进行收集整理.
 
 
-## 分类
+## Index
 
-> 考虑怎么去分类,这样可以更快的找到需要的代码等.
-
-分类参考https://awesome-python.com
-
-| 类别               | 描述            |
-| ---------------- | ------------- |
-| 日志(logging)      |               |
-| 网络(network       |               |
-| 并发(concurrency)  | 进程、线程等        |
-| 任务调度(scheduler   |               |
-| 文件(files)        | 目录遍历、文件压缩等    |
-| 时间(datetime)     | 时间、日期等        |
-| 调试(debugging)    |               |
-| 运维(devops        |               |
-| 文档(documentation |               |
-| 邮件(email)        |               |
-| HTML             |               |
-| 队列(queue)        |               |
-| 打包(package)      |               |
-| 界面(gui)          |               |
-| 优化(optimization) | python性能优化    |
-| 环境( environment) | python版本和虚拟环境 |
-
-暂时先这样, 这需要不断的完善可整理~
-
+* [日志](#日志)
+* [网络](#网络)
+* [并发](#并发)
+* [任务调度](#任务调度)
+* [文件](#文件)
+* [时间](#时间)
+* [调试](#调试)
+* [运维](#运维)
+* [文档](#文档)
+* [邮件](#邮件)
+* [HTML](#HTML)
+* [队列](#队列)
+* [打包](#打包)
+* [界面](#界面)
+* [优化](#优化)
+* [环境](#环境)
+* [使用](#使用)
 ## 日志
 
 ## 网络
 | Notebook                                 | Description             |
 | ---------------------------------------- | ----------------------- |
-| [download](http://nbviewer.ipython.org/github.com/510908220/python-toolbox/tree/master/books/network/download.ipynb) | 使用`requests`下载文件、显示下载进度 |
+| [download](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/network/download.ipynb) | 使用`requests`下载文件、显示下载进度 |
 
 
 <br/>
 
-
+##并发
+##任务调度
+##文件
+##时间
+##调试
+##运维
+##文档
+##邮件
+##HTML
+##队列
+##打包
+##界面
+##优化
+##环境
 
 
 ## 使用
