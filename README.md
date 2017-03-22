@@ -20,6 +20,7 @@
 * [界面](#界面)
 * [优化](#优化)
 * [环境](#环境)
+* [notebook](#notebook)
 * [使用](#使用)
 ## 日志
 
@@ -73,6 +74,19 @@
 <br/>
 
 ## 环境
+<br/>
+
+## notebook
+
+待整理:
+
+- [ ] https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/
+- [ ] https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/
+- [ ] https://github.com/niloch/iplotter
+- [ ] https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.ARjLZWE
+
+
+
 <br/>
 
 ## 使用
