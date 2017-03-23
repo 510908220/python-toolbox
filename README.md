@@ -21,6 +21,7 @@
 * [优化](#优化)
 * [环境](#环境)
 * [notebook](#notebook)
+* [bug](#bug)
 * [使用](#使用)
 ## 日志
 
@@ -86,6 +87,13 @@
 - [ ] https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.ARjLZWE
 
 
+
+<br/>
+
+## bug
+| Notebook | Description                              |
+| -------- | ---------------------------------------- |
+| 待填       | windows下subprocess启动的进程调用`os.rename`出错`WindowsError: [Error 5] ` |
 
 <br/>
 
