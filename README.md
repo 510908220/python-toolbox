@@ -99,7 +99,7 @@
 ## bug
 | Notebook | Description                              |
 | -------- | ---------------------------------------- |
-| 待填       | windows下subprocess启动的进程调用`os.rename`出错`WindowsError: [Error 5] ` |
+| [subprocess_windowserror_5](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/bug/subprocess_windowserror_5.ipynb)      | windows下subprocess启动的子进程调用`os.rename`出错`WindowsError: [Error 5] ` |
 
 <br/>
 
