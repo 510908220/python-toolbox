@@ -42,8 +42,8 @@
 
 ## 文件
 
-| Notebook                                 | Description             |
-| ---------------------------------------- | ----------------------- |
+| Notebook                                 | Description   |
+| ---------------------------------------- | ------------- |
 | [zipfile](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/zipfile.ipynb) | `zipfile`使用整理 |
 
 
@@ -97,15 +97,15 @@
 <br/>
 
 ## bug
-| Notebook | Description                              |
-| -------- | ---------------------------------------- |
-| [subprocess_windowserror_5](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/bug/subprocess_windowserror_5.ipynb)      | windows下subprocess启动的子进程调用`os.rename`出错`WindowsError: [Error 5] ` |
+| Notebook                                 | Description                              |
+| ---------------------------------------- | ---------------------------------------- |
+| [subprocess_windowserror_5](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/bug/subprocess_windowserror_5.ipynb) | windows下subprocess启动的子进程调用`os.rename`出错`WindowsError: [Error 5] ` |
 
 <br/>
 
 ## 使用
 
-- 需要使用`jupyer`,如果没安装的话可以执行命令`pip install jupyter`进行安装
 - 执行命令`git clone https://github.com/510908220/python-toolbox.git`
-- `cd books`,执行`jupyter notebook`,然后浏览器上去查看操作.
+- `cd python-toolbox`,执行`docker-compose up`. 打开浏览器，输入[http://192.168.0.66:8888](http://192.168.0.66:8888)
+
 
