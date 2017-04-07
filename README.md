@@ -22,6 +22,7 @@
 * [环境](#环境)
 * [notebook](#notebook)
 * [bug](#bug)
+* [进程](#进程)
 * [使用](#使用)
 ## 日志
 
@@ -72,7 +73,10 @@
 <br/>
 
 ## 打包
-<br/>
+
+| Notebook                                 | Description             |
+| ---------------------------------------- | ----------------------- |
+| [pyinstaller](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/package/pyinstaller.ipynb) | windows下使用pyinstaller打包 |
 
 ## 界面
 <br/>
@@ -103,9 +107,11 @@
 
 <br/>
 
+## 进程
+<br/>
+
 ## 使用
 
 - 执行命令`git clone https://github.com/510908220/python-toolbox.git`
 - `cd python-toolbox`,执行`docker-compose up`. 打开浏览器，输入[http://192.168.0.66:8888](http://192.168.0.66:8888)
-
 
