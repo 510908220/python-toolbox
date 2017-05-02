@@ -43,9 +43,9 @@
 
 ## 文件
 
-| Notebook                                 | Description             |
-| ---------------------------------------- | ----------------------- |
-| [question](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/question.ipynb) | 文件相关的问题整理 |
+| Notebook                                 | Description |
+| ---------------------------------------- | ----------- |
+| [question](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/question.ipynb) | 文件相关的问题整理   |
 
 
 <br/>
@@ -82,6 +82,12 @@
 <br/>
 
 ## 优化
+
+| Notebook                                 | Description             |
+| ---------------------------------------- | ----------------------- |
+| [performance-analysis](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/optimization/performance-analysis.ipynb) |性能优化整理 |
+
+
 <br/>
 
 ## 环境
