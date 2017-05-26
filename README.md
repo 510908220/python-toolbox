@@ -46,6 +46,7 @@
 | Notebook                                 | Description |
 | ---------------------------------------- | ----------- |
 | [question](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/question.ipynb) | 文件相关的问题整理   |
+| [traverse-directories](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/traverse-directories.ipynb) | 目录遍历   |
 
 
 <br/>
@@ -83,9 +84,9 @@
 
 ## 优化
 
-| Notebook                                 | Description             |
-| ---------------------------------------- | ----------------------- |
-| [performance-analysis](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/optimization/performance-analysis.ipynb) |性能优化整理 |
+| Notebook                                 | Description |
+| ---------------------------------------- | ----------- |
+| [performance-analysis](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/optimization/performance-analysis.ipynb) | 性能优化整理      |
 
 
 <br/>
