@@ -47,6 +47,7 @@
 | ---------------------------------------- | ----------- |
 | [question](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/question.ipynb) | 文件相关的问题整理   |
 | [traverse-directories](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/traverse-directories.ipynb) | 目录遍历   |
+| [excel](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/excel.ipynb) | excel读写   |
 
 
 <br/>
