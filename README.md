@@ -53,8 +53,9 @@
 <br/>
 
 ## 时间
-
-| [pendulum](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/pendulum.ipynb) | pendulum库日期使用整理   |
+| Notebook                                 | Description |
+| ---------------------------------------- | ----------- |
+| [pendulum](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/datetime/pendulum.ipynb) | pendulum库日期使用整理   |
 
 
 <br/>
