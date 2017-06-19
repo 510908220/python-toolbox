@@ -1,14 +1,21 @@
-# %load util.py
 from IPython.display import display
 import pandas as pd
 import pymysql.cursors
 from collections import defaultdict
 
 
-def print_table(db_result):
-     """
-     数据库查询结果
-     """
+def print_table():
+    db_result = []
+    try:
+        connection = get_connection()
+        with connection.cursor() as cursor:
+            # Read a single record
+            sql = "SELECT * FROM `auth_user` "
+            cursor.execute(sql)
+            db_result = cursor.fetchall()
+    finally:
+        connection.close()
+    
     if not db_result:
         return
     if isinstance(db_result, dict):
@@ -27,7 +34,7 @@ def get_connection():
                            db='db',
                            port=32768,
                            charset='utf8mb4',
-                           cursorclass=pymysql.cursors.DictCursor)\
+                           cursorclass=pymysql.cursors.DictCursor)
     return connection
 
 
