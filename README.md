@@ -128,7 +128,7 @@
 
 | Notebook                                 | Description             |
 | ---------------------------------------- | ----------------------- |
-| [pymysql](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/network/pymysql.ipynb) | pymysql使用整理 |
+| [pymysql](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/database/pymysql.ipynb) | pymysql使用整理 |
 
 
 
