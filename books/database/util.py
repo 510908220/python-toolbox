@@ -56,6 +56,5 @@ CREATE TABLE `auth_user` (
     try:
         with connection.cursor() as cursor:
             cursor.execute(table_sql)
-        connection.commit()
     finally:
         connection.close()
