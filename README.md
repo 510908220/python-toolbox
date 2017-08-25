@@ -47,21 +47,27 @@
 | Notebook                                 | Description |
 | ---------------------------------------- | ----------- |
 | [question](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/question.ipynb) | 文件相关的问题整理   |
-| [traverse-directories](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/traverse-directories.ipynb) | 目录遍历   |
-| [excel](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/excel.ipynb) | excel读写   |
+| [traverse-directories](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/traverse-directories.ipynb) | 目录遍历        |
+| [excel](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/files/excel.ipynb) | excel读写     |
 
 
 <br/>
 
 ## 时间
-| Notebook                                 | Description |
-| ---------------------------------------- | ----------- |
-| [pendulum](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/datetime/pendulum.ipynb) | pendulum库日期使用整理   |
+| Notebook                                 | Description     |
+| ---------------------------------------- | --------------- |
+| [pendulum](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/datetime/pendulum.ipynb) | pendulum库日期使用整理 |
 
 
 <br/>
 
 ## 调试
+
+| Notebook                                 | Description             |
+| ---------------------------------------- | ----------------------- |
+| [download](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/debugging/better_exceptions.ipynb) | 使用`better_exceptions`展示异常时变量值 |
+
+
 <br/>
 
 ## 运维
@@ -126,10 +132,10 @@
 
 ## 数据库
 
-| Notebook                                 | Description             |
-| ---------------------------------------- | ----------------------- |
+| Notebook                                 | Description |
+| ---------------------------------------- | ----------- |
 | [pymysql](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/database/pymysql.ipynb) | pymysql使用整理 |
-| [knowledge](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/database/knowledge.ipynb) | SQL知识点 |
+| [knowledge](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/database/knowledge.ipynb) | SQL知识点      |
 | [question](http://nbviewer.jupyter.org/github/510908220/python-toolbox/blob/master/books/database/question.ipynb) | mysql一些问题整理 |
 
 
